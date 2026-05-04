@@ -16,7 +16,7 @@
 ### 🧑‍💻 About Me
 
 ```javascript
-const nguyenNgocPhu = {
+const developer = {
   name:        "Nguyễn Ngọc Phú",
   username:    "Phunguy65",
   languages:   ["C/C++", "Java", "Python", "JavaScript", "TypeScript"],
