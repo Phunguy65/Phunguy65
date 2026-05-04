@@ -1,5 +1,5 @@
 <h1 align="center">
-  Xin chào 👋, tôi là <a href="https://github.com/Phunguy65">Phunguy65</a>!
+  Hello 👋, I'm <a href="https://github.com/Phunguy65">Nguyễn Ngọc Phú</a>!
 </h1>
 
 <p align="center">
@@ -13,10 +13,11 @@
 
 ---
 
-### 🧑‍💻 Về tôi
+### 🧑‍💻 About Me
 
 ```javascript
-const phunguy65 = {
+const nguyenNgocPhu = {
+  name:        "Nguyễn Ngọc Phú",
   username:    "Phunguy65",
   languages:   ["C/C++", "Java", "Python", "JavaScript", "TypeScript"],
   askMeAbout:  ["software development", "algorithms", "data structures", "open source"],
@@ -25,13 +26,13 @@ const phunguy65 = {
     backend:   ["Node.js", "Spring Boot"],
     tools:     ["Git", "Docker", "VS Code", "Linux"]
   },
-  funFact: "Mỗi dòng code đều là một bước tiến nhỏ về phía trước 🚀"
+  funFact: "Every line of code is a small step forward 🚀"
 };
 ```
 
 ---
 
-### 🛠️ Công nghệ & Công cụ
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <!-- Languages -->
@@ -63,7 +64,7 @@ const phunguy65 = {
 
 ---
 
-### 📊 Thống kê GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phunguy65&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -84,18 +85,18 @@ const phunguy65 = {
 
 ---
 
-### ⏱️ Thống kê thời gian lập trình (WakaTime)
+### ⏱️ Coding Time Stats (WakaTime)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-**Các số liệu trên được cập nhật tự động bằng [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These stats are updated automatically by [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 ---
 
 <p align="center">
   <em>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/>
-    Luôn sẵn sàng kết nối và học hỏi — hãy liên hệ với tôi bất cứ lúc nào! 😊
+    Always happy to connect and learn — feel free to reach out anytime! 😊
   </em>
 </p>
