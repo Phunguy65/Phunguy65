@@ -88,6 +88,72 @@ const developer = {
 ### ⏱️ Coding Time Stats (WakaTime)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.14%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 326.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 275 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 35 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1133 commits        █████████░░░░░░░░░░░░░░░░   35.07 % 
+🌆 Daytime                995 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌃 Evening                1091 commits        ████████░░░░░░░░░░░░░░░░░   33.77 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Tuesday                  356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Wednesday                274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Thursday                 315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Friday                   372 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Saturday                 484 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Sunday                   1017 commits        ████████░░░░░░░░░░░░░░░░░   31.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+C#                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+
+
+
+
+ Last Updated on 09/05/2026 08:55:47 UTC
 <!--END_SECTION:waka-->
 
 **These stats are updated automatically by [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
