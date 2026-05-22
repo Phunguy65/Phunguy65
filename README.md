@@ -88,8 +88,6 @@ const developer = {
 ### ⏱️ Coding Time Stats (WakaTime)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.60%20million%20lines%20of%20code-blue?style=flat)
@@ -155,7 +153,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2026 03:43:38 UTC
+ Last Updated on 22/05/2026 03:41:46 UTC
 <!--END_SECTION:waka-->
 
 **These stats are updated automatically by [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
