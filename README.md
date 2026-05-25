@@ -88,13 +88,15 @@ const developer = {
 ### ⏱️ Coding Time Stats (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.61%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 344.8 kB Used in GitHub's Storage 
+> 📦 345.0 kB Used in GitHub's Storage 
  > 
 > 🏆 352 Contributions in the Year 2026
  > 
@@ -153,7 +155,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 03:38:38 UTC
+ Last Updated on 25/05/2026 03:49:22 UTC
 <!--END_SECTION:waka-->
 
 **These stats are updated automatically by [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
