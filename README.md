@@ -88,6 +88,8 @@ const developer = {
 ### ⏱️ Coding Time Stats (WakaTime)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.49%20million%20lines%20of%20code-blue?style=flat)
@@ -104,6 +106,48 @@ const developer = {
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2498 commits        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+🌆 Daytime                2974 commits        █████████░░░░░░░░░░░░░░░░   35.49 % 
+🌃 Evening                2895 commits        █████████░░░░░░░░░░░░░░░░   34.55 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1134 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Tuesday                  1084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Wednesday                787 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Thursday                 1119 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Friday                   1154 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Saturday                 1356 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Sunday                   1745 commits        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -117,7 +161,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:44:08 UTC
+ Last Updated on 08/08/2026 01:34:08 UTC
 <!--END_SECTION:waka-->
 
 **These stats are updated automatically by [waka-readme-stats](https://github.com/anmol098/waka-readme-stats)**
